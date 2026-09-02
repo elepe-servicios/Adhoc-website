@@ -34,6 +34,5 @@
         "views/website_config_settings_view.xml",
     ],
     "installable": True,
-    "auto_install": True,
     "application": False,
 }
